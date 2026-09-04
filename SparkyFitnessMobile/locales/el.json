@@ -1,0 +1,8 @@
+{
+  "ios": {
+    "NSCameraUsageDescription": "Το SparkyFitness χρειάζεται πρόσβαση στην κάμερά σας για τη σάρωση barcode και ετικετών τροφίμων.",
+    "NSHealthShareUsageDescription": "Το SparkyFitness διαβάζει δεδομένα Υγείας (όπως δραστηριότητα, προπονήσεις και σωματικές μετρήσεις) για να τα εμφανίζει στην εφαρμογή και να τα συγχρονίζει με τον δικό σας διακομιστή SparkyFitness.",
+    "NSHealthUpdateUsageDescription": "Το SparkyFitness γράφει στο Apple Health τη διατροφή και την ενυδάτωση που καταγράφετε στην εφαρμογή, κρατώντας τα δύο συγχρονισμένα.",
+    "NSLocalNetworkUsageDescription": "Το SparkyFitness συνδέεται σε διακομιστές αυτοφιλοξενίας στο τοπικό σας δίκτυο."
+  }
+}

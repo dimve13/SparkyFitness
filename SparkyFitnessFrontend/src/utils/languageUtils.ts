@@ -4,6 +4,7 @@ import {
   cs,
   da,
   de,
+  el,
   enUS,
   es,
   fi,
@@ -34,6 +35,7 @@ const dateLocales: Record<string, Locale> = {
   cs,
   da,
   de,
+  el,
   en: enUS,
   es,
   fi,
@@ -77,6 +79,7 @@ export const getSupportedLanguages = (): string[] => {
     'cs',
     'da',
     'de',
+    'el',
     'en',
     'es',
     'fi',
@@ -113,6 +116,8 @@ export const getLanguageDisplayName = (langCode: string): string => {
       return 'Dansk';
     case 'de':
       return 'Deutsch';
+    case 'el':
+      return 'Ελληνικά';
     case 'en':
       return 'English';
     case 'es':

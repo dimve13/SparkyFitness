@@ -1,0 +1,17 @@
+"widget.calorie.name" = "Θερμίδες";
+"widget.calorie.description" = "Οι θερμίδες της ημέρας με μια ματιά.";
+"widget.macro.name" = "Μακροθρεπτικά";
+"widget.macro.description" = "Πρωτεΐνη, υδατάνθρακες και λιπαρά της ημέρας με μια ματιά.";
+"widget.kcal_left" = "kcal απομένουν";
+"widget.kcal" = "kcal";
+"widget.food" = "Τροφή";
+"widget.burned" = "Κάηκαν";
+"widget.goal" = "Στόχος";
+"widget.protein" = "Πρωτεΐνη";
+"widget.carbs" = "Υδατάνθρακες";
+"widget.fat" = "Λιπαρά";
+"widget.grams" = "%@ g";
+"widget.a11y.kcal_left" = "%@ kcal απομένουν";
+"widget.a11y.kcal" = "%@ kcal";
+"widget.search_food" = "Αναζήτηση τροφίμου";
+"widget.scan_barcode" = "Σάρωση barcode";

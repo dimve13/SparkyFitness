@@ -1,0 +1,276 @@
+{
+  "common": {
+    "save": "Αποθήκευση",
+    "saving": "Αποθήκευση…",
+    "back": "Πίσω",
+    "showLess": "Εμφάνιση λιγότερων",
+    "learnMore": "Μάθετε περισσότερα",
+    "next": "Επόμενο",
+    "later": "Αργότερα",
+    "close": "Κλείσιμο",
+    "cancel": "Άκυρο",
+    "continue": "Συνέχεια",
+    "retry": "Δοκιμή ξανά",
+    "details": "Λεπτομέρειες",
+    "error": "Σφάλμα",
+    "delete": "Διαγραφή",
+    "collapseSection": "Σύμπτυξη αυτής της ενότητας",
+    "expandSection": "Ανάπτυξη αυτής της ενότητας",
+    "itemCount_one": "{{count}} στοιχείο",
+    "itemCount_other": "{{count}} στοιχεία",
+    "off": "Ανενεργό",
+    "openSelectionMenu": "Ανοίγει το μενού επιλογής",
+    "selectOptionHint": "Πατήστε δύο φορές για να επιλέξετε αυτή την επιλογή",
+    "success": "Επιτυχία",
+    "clear": "Καθαρισμός",
+    "discardChanges": "Απόρριψη αλλαγών",
+    "loadMore": "Φόρτωση περισσότερων",
+    "edit": "Επεξεργασία",
+    "connectionRetry": "Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά.",
+    "deleteItemTitle": "Διαγραφή {{title}};",
+    "tryAgain": "Δοκιμάστε ξανά.",
+    "yes": "Ναι",
+    "no": "Όχι",
+    "and": "και",
+    "listFinalSeparator": " και ",
+    "date": "Ημερομηνία",
+    "add": "Προσθήκη",
+    "loading": "Φόρτωση...",
+    "pleaseTryAgain": "Δοκιμάστε ξανά.",
+    "ok": "Εντάξει",
+    "collapse": "σύμπτυξη",
+    "expand": "ανάπτυξη",
+    "removeFromFavorites": "Αφαίρεση από τα αγαπημένα",
+    "addToFavorites": "Προσθήκη στα αγαπημένα",
+    "goToSettings": "Μετάβαση στις Ρυθμίσεις",
+    "notSet": "Δεν έχει οριστεί",
+    "deleting": "Διαγραφή...",
+    "done": "Ολοκληρώθηκε",
+    "none": "Κανένα",
+    "food": "Τρόφιμο",
+    "dismiss": "Απόρριψη",
+    "remove": "Αφαίρεση",
+    "overwrite": "Αντικατάσταση",
+    "previousDay": ": προηγούμενη ημέρα",
+    "nextDay": ": επόμενη ημέρα",
+    "dismissMenu": "Κλείσιμο μενού",
+    "units": {
+      "cm": "εκ."
+    },
+    "unknownDate": "Άγνωστη ημερομηνία",
+    "selectOption": "Επιλέξτε μια επιλογή",
+    "requestTimedOut": "Το αίτημα έληξε. Ελέγξτε τη σύνδεση με τον διακομιστή.",
+    "nextStep": "Επόμενο βήμα",
+    "notNow": "Όχι τώρα"
+  },
+  "navigation": {
+    "settings": "Ρυθμίσεις",
+    "library": "Βιβλιοθήκη",
+    "presets": "Προκαθορισμένα",
+    "foods": "Τρόφιμα",
+    "meals": "Γεύματα",
+    "exercises": "Ασκήσεις",
+    "diary": "Ημερολόγιο",
+    "details": "Λεπτομέρειες",
+    "dashboard": "Πίνακας",
+    "add": "Προσθήκη",
+    "mealTypes": "Τύποι γευμάτων"
+  },
+  "languageSettings": {
+    "subtitle": "Χρησιμοποιήστε τη γλώσσα της συσκευής σας ή επιλέξτε γλώσσα για το SparkyFitness."
+  },
+  "settings": {
+    "language": {
+      "title": "Γλώσσα",
+      "system": "Συστήματος",
+      "english": "English",
+      "polish": "Polski",
+      "spanish": "Español",
+      "greek": "Ελληνικά",
+      "pickerHint": "Ανοίγει το μενού επιλογής γλώσσας",
+      "changeFailed": "Δεν ήταν δυνατή η αλλαγή γλώσσας",
+      "managedByIOS": "Διαχειρίζεται από το iOS",
+      "iosSettingsHint": "Αλλάξτε τη γλώσσα αυτής της εφαρμογής από τις Ρυθμίσεις iOS",
+      "openSettingsFailed": "Δεν ήταν δυνατό το άνοιγμα των Ρυθμίσεων iOS",
+      "iosSubtitle": "{{language}} · {{managedBy}}"
+    }
+  },
+  "foodScan": {
+    "segment": {
+      "barcode": "Barcode",
+      "label": "Ετικέτα",
+      "photo": "Φωτογραφία"
+    },
+    "errors": {
+      "capturePhoto": "Η λήψη φωτογραφίας απέτυχε.",
+      "processPhoto": "Η επεξεργασία της φωτογραφίας απέτυχε.",
+      "noPhoto": "Δεν επιστράφηκε φωτογραφία από τον επιλογέα.",
+      "analyzeLabel": "Η ανάλυση της ετικέτας διατροφής απέτυχε. Δοκιμάστε ξανά.",
+      "loadPhoto": "Η φόρτωση της φωτογραφίας απέτυχε.",
+      "lookupBarcode": "Δεν ήταν δυνατή η αναζήτηση αυτού του barcode. Δοκιμάστε ξανά.",
+      "timeout": "Το αίτημα έληξε. Ελέγξτε τη σύνδεση με τον διακομιστή."
+    },
+    "permission": {
+      "camera": "Χρειαζόμαστε την άδειά σας για να εμφανίσουμε την κάμερα",
+      "grant": "Παραχώρηση άδειας"
+    },
+    "label": {
+      "analyzing": "Ανάλυση ετικέτας...",
+      "retake": "Νέα λήψη",
+      "usePhoto": "Χρήση φωτογραφίας"
+    },
+    "lookup": {
+      "failed": "Η αναζήτηση απέτυχε",
+      "noMatch": "Καμία αντιστοιχία για το barcode",
+      "nextSteps": "Μπορείτε να σαρώσετε την ετικέτα διατροφής ή να την εισαγάγετε χειροκίνητα.",
+      "scanLabel": "Σάρωση ετικέτας διατροφής",
+      "addManually": "Χειροκίνητη προσθήκη τροφίμου"
+    },
+    "photo": {
+      "frameMeal": "Καδράρετε ολόκληρο το γεύμα",
+      "notSetUp": "Οι εκτιμήσεις AI από φωτογραφία δεν έχουν ρυθμιστεί",
+      "setupHelp": "Ανοίξτε το SparkyFitness σε πρόγραμμα περιήγησης και μεταβείτε στις Ρυθμίσεις → AI για να προσθέσετε πάροχο AI, και επιστρέψτε εδώ.",
+      "logManually": "Χειροκίνητη καταγραφή"
+    },
+    "barcode": {
+      "typeInstead": "Πληκτρολόγηση barcode"
+    },
+    "manual": {
+      "title": "Εισαγωγή barcode",
+      "placeholder": "Αριθμός barcode",
+      "useBarcode": "Χρήση barcode",
+      "lookup": "Αναζήτηση"
+    },
+    "accessibility": {
+      "chooseLabelPhoto": "Επιλογή φωτογραφίας ετικέτας από τη βιβλιοθήκη",
+      "choosePhoto": "Επιλογή φωτογραφίας από τη βιβλιοθήκη",
+      "howItWorks": "Πώς λειτουργεί η εκτίμηση από φωτογραφία",
+      "back": "Επιστροφή",
+      "flashlightOn": "Ενεργοποίηση φακού",
+      "flashlightOff": "Απενεργοποίηση φακού",
+      "retakePhoto": "Νέα λήψη φωτογραφίας",
+      "takeLabelPhoto": "Λήψη φωτογραφίας ετικέτας διατροφής",
+      "takeMealPhoto": "Λήψη φωτογραφίας γεύματος"
+    }
+  },
+  "barcode": {
+    "title": "Barcode",
+    "invalid": "Το barcode πρέπει να έχει 8 έως 14 ψηφία.",
+    "help": "Προαιρετικό. Τα τυπικά barcode έχουν 8 έως 14 ψηφία.",
+    "scan": "Σάρωση με την κάμερα"
+  },
+  "editBarcode": {
+    "title": "Barcode",
+    "errors": {
+      "invalid": "Μη έγκυρο barcode",
+      "invalidFormat": "Το barcode πρέπει να έχει 8 έως 14 ψηφία.",
+      "saveFailed": "Δεν ήταν δυνατή η αποθήκευση του barcode",
+      "removeFailed": "Δεν ήταν δυνατή η αφαίρεση του barcode"
+    },
+    "confirm": {
+      "inUseTitle": "Το barcode χρησιμοποιείται ήδη",
+      "inUseMessage": "Αυτό το barcode είναι ήδη συνδεδεμένο με το «{{otherName}}». Να συνδεθεί ούτως ή άλλως με το «{{foodName}}»;",
+      "removeTitle": "Αφαίρεση barcode",
+      "removeMessage": "Να αφαιρεθεί το barcode από το «{{foodName}}»;"
+    },
+    "actions": {
+      "attach": "Σύνδεση",
+      "remove": "Αφαίρεση",
+      "scanWithCamera": "Σάρωση με την κάμερα",
+      "removeBarcode": "Αφαίρεση barcode"
+    },
+    "success": {
+      "saved": "Το barcode αποθηκεύτηκε",
+      "removed": "Το barcode αφαιρέθηκε"
+    },
+    "accessibility": {
+      "save": "Αποθήκευση barcode"
+    },
+    "labels": {
+      "forFood": "Για {{foodName}}"
+    },
+    "help": {
+      "standardFormat": "Τα τυπικά barcode έχουν 8 έως 14 ψηφία."
+    }
+  },
+  "foodSearch": {
+    "menu": {
+      "newFood": "Νέο τρόφιμο",
+      "newMeal": "Νέο γεύμα",
+      "show": "Εμφάνιση",
+      "allProviders": "Όλοι οι πάροχοι"
+    },
+    "accessibility": {
+      "moreFiltered": "Περισσότερες επιλογές, φιλτραρισμένες σε {{filter}}",
+      "moreOptions": "Περισσότερες επιλογές",
+      "clearSearch": "Καθαρισμός αναζήτησης",
+      "scanFood": "Σάρωση τροφίμου",
+      "searchingFoods": "Αναζήτηση αποθηκευμένων τροφίμων",
+      "searchingFoodsMeals": "Αναζήτηση αποθηκευμένων τροφίμων και γευμάτων",
+      "providerError": "{{provider}}, αδυναμία φόρτωσης, πατήστε για νέα προσπάθεια",
+      "providerNoResults": "{{provider}}, κανένα αποτέλεσμα",
+      "favorite": "Αγαπημένο",
+      "viewPhoto": "Προβολή φωτογραφίας",
+      "verifiedFood": "Επαληθευμένο τρόφιμο",
+      "providerExpand_one": "{{provider}}, {{count}} αποτέλεσμα, πατήστε για {{action}}",
+      "providerExpand_other": "{{provider}}, {{count}} αποτελέσματα, πατήστε για {{action}}",
+      "providerChange": "Πάροχος {{provider}}, πατήστε για αλλαγή"
+    },
+    "errors": {
+      "detailsUnavailable": "Οι λεπτομέρειες δεν είναι διαθέσιμες",
+      "loadNutritionDetails": "Δεν ήταν δυνατή η φόρτωση πλήρων διατροφικών στοιχείων."
+    },
+    "sections": {
+      "favorites": "Αγαπημένα",
+      "recentlyLogged": "Πρόσφατα καταγεγραμμένα",
+      "top": "Κορυφαία",
+      "yourFoods": "Τα τρόφιμά σας",
+      "yourMeals": "Τα γεύματά σας",
+      "topMatches": "Καλύτερες αντιστοιχίες",
+      "onlineResults": "Διαδικτυακά αποτελέσματα",
+      "byProvider": "Ανά πάροχο"
+    },
+    "search": {
+      "placeholder": "Αναζήτηση τροφίμων..."
+    },
+    "states": {
+      "connectToSearch": "Συνδεθείτε σε διακομιστή για αναζήτηση τροφίμων",
+      "failedToLoad": "Η φόρτωση των τροφίμων απέτυχε",
+      "noFilteredFoods": "Δεν υπάρχουν τρόφιμα στο {{filter}}",
+      "searchToLog": "Αναζητήστε ένα τρόφιμο ή γεύμα για καταγραφή",
+      "noSavedFoods": "Δεν βρέθηκαν αποθηκευμένα τρόφιμα",
+      "noSavedFoodsMeals": "Δεν βρέθηκαν αποθηκευμένα τρόφιμα ή γεύματα",
+      "noFilteredSaved": "{{message}} στο {{filter}}",
+      "couldNotLoad": "Αδυναμία φόρτωσης",
+      "noResults": "Κανένα αποτέλεσμα",
+      "noOnlineResultsFrom": "Κανένα διαδικτυακό αποτέλεσμα από {{provider}}"
+    },
+    "filter": {
+      "all": "Όλα",
+      "mine": "Δικά μου",
+      "family": "Οικογένεια",
+      "public": "Δημόσια",
+      "showAll": "Εμφάνιση όλων"
+    },
+    "actions": {
+      "loadMoreFailed": "Η φόρτωση περισσότερων απέτυχε. Πατήστε για νέα προσπάθεια",
+      "loadMore": "Φόρτωση περισσότερων",
+      "showAllProviderResults_one": "Εμφάνιση {{count}} αποτελέσματος από {{provider}}",
+      "showAllProviderResults_other": "Εμφάνιση και των {{count}} αποτελεσμάτων από {{provider}}",
+      "showAllLocalResults_one": "Εμφάνιση {{count}} {{itemType}}",
+      "showAllLocalResults_other": "Εμφάνιση και των {{count}} {{itemType}}"
+    },
+    "pickers": {
+      "onlineProvider": "Διαδικτυακός πάροχος"
+    },
+    "labels": {
+      "caloriesShort": "kcal",
+      "caloriesUnit": "θερμ.",
+      "foods": "τρόφιμα",
+      "meals": "γεύματα",
+      "meal": "Γεύμα",
+      "itemCount_one": "{{count}} στοιχείο",
+      "itemCount_other": "{{count}} στοιχεία"
+    }
+  }
+}

@@ -19,6 +19,12 @@
       "intlLocale": "es-ES",
       "displayNameKey": "settings.language.spanish",
       "defaultDisplayName": "Español"
+    },
+    "el": {
+      "languageCode": "el",
+      "intlLocale": "el-GR",
+      "displayNameKey": "settings.language.greek",
+      "defaultDisplayName": "Ελληνικά"
     }
   }
 }
